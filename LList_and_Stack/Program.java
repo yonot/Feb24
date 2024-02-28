@@ -11,7 +11,7 @@ public class Program {
         ms.push(new LLNode("Moshe"));
         ms.push(new LLNode("Sima"));
         ms.push(new LLNode("Dudu"));
-
+// hallo hallo
         ms.print();
         System.out.println("popping "+ms.pop());
         //ms.push(new LLNode("Benny"));
